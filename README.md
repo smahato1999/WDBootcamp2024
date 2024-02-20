@@ -11,3 +11,5 @@ Web Development Bootcamp 2024 - Udemy
 ## Intermediate HTML
 1. List Elements
 2. Nesting and Identation
+3. Anchor Elements
+4. Image Elements
