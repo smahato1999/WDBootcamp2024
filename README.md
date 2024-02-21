@@ -24,3 +24,4 @@ Web Development Bootcamp 2024 - Udemy
 ## Introduction to CSS
 1. Adding CSS
 2. CSS Selectors
+3. Color Vocab Project
