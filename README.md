@@ -25,3 +25,7 @@ Web Development Bootcamp 2024 - Udemy
 1. Adding CSS
 2. CSS Selectors
 3. Color Vocab Project
+
+## CSS Properties
+1. CSS Colors
+2. Font Properties
