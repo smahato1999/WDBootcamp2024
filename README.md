@@ -20,3 +20,7 @@ Web Development Bootcamp 2024 - Udemy
 2. Webpages
 3. HTML Boilerplate
 4. Portfolio Website
+
+## Introduction to CSS
+1. Adding CSS
+2. CSS Selectors
