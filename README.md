@@ -29,3 +29,4 @@ Web Development Bootcamp 2024 - Udemy
 ## CSS Properties
 1. CSS Colors
 2. Font Properties
+3. CSS Box Model
