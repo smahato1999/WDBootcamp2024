@@ -3,6 +3,10 @@ h1{
     font-size: 3rem;
 }
 
+p{
+    font-family: "Annapurna SIL", serif;
+}
+
 body{
     background-color: black;
 }
