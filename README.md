@@ -34,3 +34,4 @@ Web Development Bootcamp 2024 - Udemy
 ## Intermediare CSS - Completed
 1. CSS Cascade
 2. Combining CSS Selector
+3. CSS Positioning
